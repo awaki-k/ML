@@ -122,8 +122,6 @@
 ---
 
 ## Reference
-
-* Lecture 5: Bayesian Network, Prof. Qiangfu Zhao
 * [Bayesian Network – Wikipedia](https://en.wikipedia.org/wiki/Bayesian_network)
 * [Norsys Netica examples](http://www.norsys.com/networklibrary.html)
 * [pandas.DataFrame.cumsum() – pandas docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.cumsum.html)
