@@ -61,7 +61,7 @@
 * 精度は `h=0.5` 〜 `h=0.7` の間で最大
 * 小さすぎる h は過学習、h が大きすぎると表現力が落ちる
 
-![accuracy\_vs\_bandwidth](https://via.placeholder.com/800x400.png?text=Accuracy+vs+Bandwidth+h)
+![Image](https://github.com/user-attachments/assets/9d759232-f5e8-421b-813f-855594414983)
 （※ 実行時は matplotlib により自動生成）
 
 ---
