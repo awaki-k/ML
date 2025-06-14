@@ -19,6 +19,9 @@
 * モデル: `sklearn`ライブラリの`LinearRegression`というモデル
 * 評価: MAEと標準偏差
 
+## 結果
+
+
 ## Reference
 * [気象庁サイト](https://www.data.jma.go.jp/gmd/risk/obsdl/index.php)
 * [使用モデル詳細](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
