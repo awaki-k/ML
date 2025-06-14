@@ -80,3 +80,9 @@
 * [Irisデータセットについて](https://archive.ics.uci.edu/ml/datasets/iris)
 * [F1スコアの解説](https://note.com/noa813/n/nef0692042cdf)
 * [混同行列の解説](https://qiita.com/TsutomuNakamura/items/a1a6a02cb9bb0dcbb37f)
+
+## 実行手順
+```bash
+docker-compose build
+docker-compose up
+```
