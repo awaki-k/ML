@@ -88,6 +88,7 @@
 ---
 
 ## Refernece
+* [カーネル密度](https://pro.arcgis.com/ja/pro-app/latest/tool-reference/spatial-analyst/kernel-density.htm)
 * [KDEとは](https://qiita.com/shokishimada/items/f630a20099e8e4bdc2f7)
 
 ---
