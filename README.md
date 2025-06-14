@@ -22,7 +22,7 @@
 
 ---
 
-### Project 4: ベイジアンネットワークの結合確率分布生成とデータサンプリング (2025-06-24)
+### [Project 4: ベイジアンネットワークの結合確率分布生成とデータサンプリング](https://github.com/awaki-k/ML/tree/main/proj4) (2025-06-24)
 - 与えられたベイジアンネットワーク構造に基づいて JPDT（Joint Probability Distribution Table）を計算。
 - サンプリングの結果と理論値の一致性を確認。
 
