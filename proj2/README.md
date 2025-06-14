@@ -76,7 +76,7 @@
 シンプルな実装ながら、K-NNCの特性を深く理解できる良い演習になった。
 
 ## Reference
-* [K-NNの解説(https://zero2one.jp/learningblog/k-nearest-neighbor-python/)]
+* [K-NNの解説](https://zero2one.jp/learningblog/k-nearest-neighbor-python/)
 * [scikit-learn KNeighborsClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
 * [Irisデータセット](https://archive.ics.uci.edu/ml/datasets/iris)
 * [F1スコアの解説](https://note.com/noa813/n/nef0692042cdf)
