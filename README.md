@@ -10,13 +10,13 @@
 
 ---
 
-### Project 2: K最近傍法（K-NNC）のアルゴリズム設計と実装 (2025-06-17)
+### [Project 2: K最近傍法（K-NNC）のアルゴリズム設計と実装](https://github.com/awaki-k/ML/tree/main/proj2) (2025-06-17)
 - K-NNC（K-Nearest Neighbor Classifier）を自作実装。
 - Irisデータセットを用いて、分類性能の評価を実施。
 
 ---
 
-### Project 3: ガウスカーネルによる確率密度推定と最尤決定法の実装 (2025-06-20)
+### [Project 3: ガウスカーネルによる確率密度推定と最尤決定法の実装](https://github.com/awaki-k/ML/tree/main/proj3) (2025-06-20)
 - ガウスカーネルを用いた確率密度推定器を構築。
 - Irisデータセットを用いて、K-NN法との比較を行う。
 
