@@ -1,5 +1,5 @@
 # ML
-* 大学のMLの授業の課題を張り付けるだけ。
+* [MLの授業](https://web-int.u-aizu.ac.jp/~qf-zhao/ML/ML.html)の課題を張り付けるだけ。
 
 ## プロジェクトのリスト
 
