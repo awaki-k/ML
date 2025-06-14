@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  knn-classifier:
+    build: .
+    container_name: knn_container
+    volumes:
+      - ./outputs:/app/outputs
+    working_dir: /app/src
