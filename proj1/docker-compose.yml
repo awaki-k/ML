@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  linear-regression:
+    build: .
+    volumes:
+      - ./src:/app        # train.py を格納したディレクトリ
+      - ./data:/app/data  # データファイル
+      - ./outputs:/app/outputs  # 結果出力先
+    working_dir: /app
+    command: python train.py
