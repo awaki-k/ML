@@ -11,19 +11,19 @@
 ---
 
 ### [Project 2: K最近傍法（K-NNC）のアルゴリズム設計と実装](https://github.com/awaki-k/ML/tree/main/proj2) (2025-06-17)
-- K-NNC（K-Nearest Neighbor Classifier）を自作実装。
-- Irisデータセットを用いて、分類性能の評価を実施。
+- `K-NNC`（`K-Nearest Neighbor Classifier`）を自作実装。
+- `Iris`データセットを用いて、分類性能の評価を実施。
 
 ---
 
 ### [Project 3: ガウスカーネルによる確率密度推定と最尤決定法の実装](https://github.com/awaki-k/ML/tree/main/proj3) (2025-06-20)
 - ガウスカーネルを用いた確率密度推定器を構築。
-- Irisデータセットを用いて、K-NN法との比較を行う。
+- `Iris`データセットを用いて、`K-NN`法との比較を行う。
 
 ---
 
 ### [Project 4: ベイジアンネットワークの結合確率分布生成とデータサンプリング](https://github.com/awaki-k/ML/tree/main/proj4) (2025-06-24)
-- 与えられたベイジアンネットワーク構造に基づいて JPDT（Joint Probability Distribution Table）を計算。
+- 与えられたベイジアンネットワーク構造に基づいて `JPDT`（`Joint Probability Distribution Table`）を計算。
 - サンプリングの結果と理論値の一致性を確認。
 
 ---
