@@ -91,12 +91,8 @@
 
 ---
 
-## 実行手順（Google Colab）
-
-```python
-# 必要ライブラリのインストール（Colabで最初に実行）
-!pip install scikit-learn matplotlib scipy
-
-# 分類器と評価のコードを貼り付けて実行
-# グラフと foldごとの精度ログが出力されます
+## 実行手順
+```bash
+docker-compose build
+docker-compose up
 ```
