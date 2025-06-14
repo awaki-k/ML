@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  kde-classifier:
+    build: .
+    volumes:
+      - ./data:/workspace/data
+      - ./outputs:/workspace/outputs
+    working_dir: /workspace
+    container_name: kde_classifier_app
