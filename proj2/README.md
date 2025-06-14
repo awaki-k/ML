@@ -78,5 +78,5 @@
 ## Reference
 * [scikit-learn KNeighborsClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
 * [Irisデータセットについて](https://archive.ics.uci.edu/ml/datasets/iris)
-* [F1スコアの解説](https://qiita.com/FukuharaYohei/items/0f8d3e36349427ab9b74)
+* [F1スコアの解説](https://note.com/noa813/n/nef0692042cdf)
 * [混同行列の解説](https://data-viz-lab.com/confusionmatrix)
