@@ -90,7 +90,8 @@
 ## Refernece
 * [カーネル密度](https://pro.arcgis.com/ja/pro-app/latest/tool-reference/spatial-analyst/kernel-density.htm)
 * [KDEとは](https://qiita.com/shokishimada/items/f630a20099e8e4bdc2f7)
-
+* 
+* [scipy.stats.norm](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.norm.html)
 ---
 
 ## 実行手順
