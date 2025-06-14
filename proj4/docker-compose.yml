@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  bayesian-jpdt:
+    build: .
+    container_name: project4_bn_app
+    volumes:
+      - ./data:/workspace/data
+      - ./outputs:/workspace/outputs
+    working_dir: /workspace
