@@ -67,3 +67,9 @@
 * [使用モデル詳細](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
 * [MAEの説明](https://e-words.jp/w/%E5%B9%B3%E5%9D%87%E7%B5%B6%E5%AF%BE%E8%AA%A4%E5%B7%AE.html#google_vignette)
 * [標準誤差の説明](https://data-viz-lab.com/standarddeviation)
+
+## 実行手順
+```bash
+docker-compose build
+docker-compose up
+```
